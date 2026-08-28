@@ -114,12 +114,14 @@ I'm always open to connecting with people interested in:
 
 <p align="center">
 
-<a href="LINKEDIN">
-<img src="(https://www.linkedin.com/in/meryem-bouras-b6914833b/)"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/meryem-bouras-b6914833b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mail">
-<img src="meryembourasinfo@gmail.com"/>
+<a href="mailto:meryembourasinfo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
